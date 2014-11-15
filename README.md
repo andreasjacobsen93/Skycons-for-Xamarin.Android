@@ -24,7 +24,7 @@ Skycons for Xamarin.Android C#
 
 ## How to use
  - Deployment target should be API level 14 or above.
- - Import 'SkyconsLibrary' as a library to your project.
+ - Import 'SkyconsLibrary' files to your project.
  
 ## Customization:
 
