@@ -39,4 +39,4 @@ Skycons for Xamarin.Android C#
 License
 =======
 
-Skycons for Xamarin.Android is being made available in public domain under similar terms like the [original](http://darkskyapp.github.io)
+Skycons for Xamarin.Android is being made available in public domain under similar terms like the [original](https://github.com/darkskyapp/skycons)
